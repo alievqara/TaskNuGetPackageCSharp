@@ -1,0 +1,13 @@
+Следующий SQL-запрос извлекает все пары имен продуктов и категорий и по-прежнему отображает название продукта, если у продукта нет категории:
+
+
+SELECT Product.ProductName, ISNULL(Category.CategoryName, 'Kategori Yok') AS CategoryName
+FROM Product
+LEFT JOIN Category ON Product.CategoryID = Category.CategoryID
+ORDER BY Product.ProductName ASC
+
+
+
+Здесь таблицы Product и Category содержат информацию о продукте и категории. 
+С помощью LEFT JOIN мы получаем все товары и соответствующие им категории. Функция ISNULL изменяется на «Нет категории», если имя категории равно NULL. 
+Оператор ORDER BY позволяет сортировать результаты в алфавитном порядке по названию продукта.
