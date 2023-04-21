@@ -1,0 +1,12 @@
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\bin\Debug\net6.0\TaskNuGetPackageCSharp.deps.json
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\bin\Debug\net6.0\TaskNuGetPackageCSharp.dll
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\bin\Debug\net6.0\TaskNuGetPackageCSharp.pdb
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\TaskNuGetPackageCSharp.csproj.AssemblyReference.cache
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\TaskNuGetPackageCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\TaskNuGetPackageCSharp.AssemblyInfoInputs.cache
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\TaskNuGetPackageCSharp.AssemblyInfo.cs
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\TaskNuGetPackageCSharp.csproj.CoreCompileInputs.cache
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\TaskNuGetPackageCSharp.dll
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\refint\TaskNuGetPackageCSharp.dll
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\TaskNuGetPackageCSharp.pdb
+D:\Lessons\TaskNuGetPackageCSharp\TaskNuGetPackageCSharp\obj\Debug\net6.0\ref\TaskNuGetPackageCSharp.dll
