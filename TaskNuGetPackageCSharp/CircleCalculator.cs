@@ -40,7 +40,7 @@ namespace TaskNuGetPackageCSharp
 
             double x = radius;
             double y = baseTriangle / 2;
-            double z = ((y * y) - (x * x));
+            double z = ((y * y) + (x * x));
 
             if (z * 2 == baseTriangle * baseTriangle)
             {
